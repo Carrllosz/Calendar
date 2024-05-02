@@ -2,7 +2,7 @@
 
 Este é um projeto de uma SPA (Single Page Application) de calendário de tarefas do dia, desenvolvido como parte de um processo seletivo. A aplicação foi construída utilizando as seguintes tecnologias:
 
-- Backend: Estava em desenvolvimento, devido ao tempo não foi concluído.
+- Backend: Estava em desenvolvimento, devido ao tempo não foi concluído. Seria utilizado a STACK (MERN - MongoDB, Express, React.js e Node.js)
 - Frontend: React.js.
 
 ## Funcionalidades
