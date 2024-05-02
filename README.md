@@ -21,11 +21,11 @@ O código foi organizado de forma modular, com componentes reutilizáveis em tod
 
 ### Padrões de Projetos
 
-Foram aplicados padrões de projeto como o padrão de componentes, garantindo uma arquitetura sólida e escalável no frontend.
+Foram aplicados padrões de projeto como o padrão de componentes, garantindo uma arquitetura sólida e escalável no frontend. O código segue as práticas comuns de desenvolvimento React, como componentização, gerenciamento de estado local e manipulação de eventos. Contribuindo para um código mais modular, legível e fácil de manter.
 
 ### Backend e Frontend Totalmente Isolados
 
-Embora este projeto seja apenas frontend, a estrutura foi desenvolvida de forma modular e independente, o que permite futuras expansões ou integrações com um backend. O código segue as práticas comuns de desenvolvimento React, como componentização, gerenciamento de estado local e manipulação de eventos. Contribuindo para um código mais modular, legível e fácil de manter.
+Embora este projeto seja apenas frontend, a estrutura foi desenvolvida de forma modular e independente, o que permite futuras expansões ou integrações com um backend. 
 
 ### Escalabilidade
 
